@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sn_apm_di_digital_integration" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Digital Integration - Default view" name="sn_apm_di_digital_integration" related_list="NULL" sys_domain="global" view="Default view">a102f0b3874246d4d04ca6890cbb3595</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:4ac240a677631110f76fd5f4be5a9930</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>1669872</sys_created_by>
+            <sys_created_on>2024-05-15 09:49:03</sys_created_on>
+            <sys_id>3102fcb7874246d4d04ca6890cbb35dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>1669872</sys_updated_by>
+            <sys_updated_on>2024-05-15 09:49:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Digital Integration - Default view" name="sn_apm_di_digital_integration" related_list="NULL" sys_domain="global" view="Default view">a102f0b3874246d4d04ca6890cbb3595</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sn_apm_di_information_objects.digital_integration_subscriber</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>1669872</sys_created_by>
+            <sys_created_on>2024-05-15 09:49:03</sys_created_on>
+            <sys_id>7902fcb7874246d4d04ca6890cbb35dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>1669872</sys_updated_by>
+            <sys_updated_on>2024-05-15 09:49:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Digital Integration - Default view" name="sn_apm_di_digital_integration" related_list="NULL" sys_domain="global" view="Default view">a102f0b3874246d4d04ca6890cbb3595</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:8557130eac411010fa9bb5b35342c628</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>1669872</sys_created_by>
+            <sys_created_on>2024-05-15 09:49:03</sys_created_on>
+            <sys_id>7d02fcb7874246d4d04ca6890cbb35dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>1669872</sys_updated_by>
+            <sys_updated_on>2024-05-15 09:49:03</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Digital Integration - Default view</calculated_name>
+            <filter/>
+            <name>sn_apm_di_digital_integration</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>1669872</sys_created_by>
+            <sys_created_on>2024-05-15 09:49:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a102f0b3874246d4d04ca6890cbb3595</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Digital Integration - Default view</sys_name>
+            <sys_package display_value="Application Portfolio Management Digital Integration Management" source="sn_apm_di">71e7ac97a33251109eb0cc4a66fcda0c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application Portfolio Management Digital Integration Management">71e7ac97a33251109eb0cc4a66fcda0c</sys_scope>
+            <sys_update_name>sys_ui_related_sn_apm_di_digital_integration_null</sys_update_name>
+            <sys_updated_by>1669872</sys_updated_by>
+            <sys_updated_on>2024-05-15 09:49:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Application Portfolio Management Digital Integration Management">71e7ac97a33251109eb0cc4a66fcda0c</claim_owner_scope>
+        <claim_timestamp>18fba13aaab0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_related_sn_apm_di_digital_integration_null</metadata_update_name>
+        <previous_claim_app_version>1.1.0</previous_claim_app_version>
+        <previous_claim_name>Application Portfolio Management Digital Integration Management</previous_claim_name>
+        <previous_claim_scope>71e7ac97a33251109eb0cc4a66fcda0c</previous_claim_scope>
+        <sys_created_by>1669872</sys_created_by>
+        <sys_created_on>2024-05-27 12:43:22</sys_created_on>
+        <sys_id>400d4baf87528e54ebf996c83cbb35b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>1669872</sys_updated_by>
+        <sys_updated_on>2024-05-27 12:43:22</sys_updated_on>
+    </sys_claim>
+</record_update>

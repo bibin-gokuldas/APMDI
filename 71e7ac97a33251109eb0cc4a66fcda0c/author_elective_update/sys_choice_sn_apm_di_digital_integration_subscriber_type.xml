@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subscriber_type" table="sn_apm_di_digital_integration" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subscriber_type</element>
+            <name>sn_apm_di_digital_integration</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-05-08 01:38:45</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>subscriber_type</sys_name>
+            <sys_package display_value="Application Portfolio Management Digital Integration Management" source="sn_apm_di">71e7ac97a33251109eb0cc4a66fcda0c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Application Portfolio Management Digital Integration Management">71e7ac97a33251109eb0cc4a66fcda0c</sys_scope>
+            <sys_update_name>sys_choice_sn_apm_di_digital_integration_subscriber_type</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:38:45</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Integration</label>
+            <language>en</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-05-08 01:38:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:38:45</sys_updated_on>
+            <value>data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>数据集成</label>
+            <language>zh</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:40:05</sys_updated_on>
+            <value>data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>資料整合</label>
+            <language>zt</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:39:53</sys_updated_on>
+            <value>data</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Market Feed</label>
+            <language>en</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>1669872</sys_created_by>
+            <sys_created_on>2024-05-15 10:02:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>1669872</sys_updated_by>
+            <sys_updated_on>2024-05-15 10:02:45</sys_updated_on>
+            <value>market</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Process Integration</label>
+            <language>en</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-05-08 01:38:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:38:45</sys_updated_on>
+            <value>process</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>流程集成</label>
+            <language>zh</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:40:05</sys_updated_on>
+            <value>process</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>程序整合</label>
+            <language>zt</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:39:53</sys_updated_on>
+            <value>process</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>User Interface Integration</label>
+            <language>en</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2024-05-08 01:38:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:38:45</sys_updated_on>
+            <value>user_interface</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>使用者介面整合</label>
+            <language>zt</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:39:53</sys_updated_on>
+            <value>user_interface</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>subscriber_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>用户界面集成</label>
+            <language>zh</language>
+            <name>sn_apm_di_digital_integration</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-05-08 01:40:05</sys_updated_on>
+            <value>user_interface</value>
+        </sys_choice>
+    </sys_choice>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Application Portfolio Management Digital Integration Management">71e7ac97a33251109eb0cc4a66fcda0c</claim_owner_scope>
+        <claim_timestamp>18fba13aa9a0000001</claim_timestamp>
+        <metadata_update_name>sys_choice_sn_apm_di_digital_integration_subscriber_type</metadata_update_name>
+        <previous_claim_app_version>1.1.0</previous_claim_app_version>
+        <previous_claim_name>Application Portfolio Management Digital Integration Management</previous_claim_name>
+        <previous_claim_scope>71e7ac97a33251109eb0cc4a66fcda0c</previous_claim_scope>
+        <sys_created_by>1669872</sys_created_by>
+        <sys_created_on>2024-05-27 12:43:22</sys_created_on>
+        <sys_id>840d4baf87528e54ebf996c83cbb35b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>1669872</sys_updated_by>
+        <sys_updated_on>2024-05-27 12:43:22</sys_updated_on>
+    </sys_claim>
+</record_update>
